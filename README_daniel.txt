@@ -14,6 +14,7 @@ CS1520
 
 
 Planned updates:
+-add a favicon
 -use include file using PHP for the footer
 -have the email form actually work
 -add a 'Projects' tab
